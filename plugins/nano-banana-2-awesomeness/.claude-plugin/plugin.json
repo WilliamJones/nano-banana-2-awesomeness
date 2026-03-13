@@ -1,0 +1,7 @@
+{
+  "name": "nano-banana-2-awesomeness",
+  "description": "Zero-dependency AI image generation skill for Claude Code. Calls the Gemini API directly via curl. Intelligent prompt engineering, automatic parameter selection, batch generation, image grids, iterative refinement, style exploration, and error recovery.",
+  "author": {
+    "name": "William Jones"
+  }
+}
